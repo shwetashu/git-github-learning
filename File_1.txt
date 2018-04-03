@@ -1,2 +1,5 @@
 First created file.Modified***TESTING CONFLICTS IN GITHB***
+First created file.Modified--Testing conflicts handling in Github
+
+
 
