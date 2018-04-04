@@ -1,1 +1,1 @@
-Second new commmit
+Second new commmit. GitIgnore commit
